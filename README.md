@@ -2,4 +2,4 @@
 
 -> Various projects using arduino and other sensors.
 
-1. Smart blind stick
+1. Smart blind stick - Arduino Nano
